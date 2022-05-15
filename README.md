@@ -1,3 +1,3 @@
 # Web development internship project
 # Description
-! [CDAP](/internship_project.png)
+! [CDAP](img/internship_project.png)
