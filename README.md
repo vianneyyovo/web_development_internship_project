@@ -1,1 +1,1 @@
-# web_development_internship_project
+# Web development internship project
